@@ -50,3 +50,6 @@ To evaluate and improve sales performance by analyzing transactional sales data 
 * Year-over-year analysis indicated fluctuations in total sales, valuable for forecasting and goal-setting.
 6.Forecasting Gaps
 * Discrepancies between actual and planned sales revealed forecasting inaccuracies, suggesting the need for improved demand planning or market analysis methods.
+
+##Project Conclusion
+The analysis highlighted key sales trends and performance gaps across regions, with the West outperforming targets and the East falling short. Variances between actual and planned sales revealed opportunities to improve forecasting accuracy. Excel-based reporting enabled clear, actionable insights to support strategic decision-making and sales planning.
