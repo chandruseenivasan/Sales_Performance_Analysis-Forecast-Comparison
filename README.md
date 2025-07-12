@@ -1,5 +1,6 @@
 # Sales Performance and Forecast Analysis Using Excel
 ##Project Objective
+
 To evaluate and improve sales performance by analyzing transactional sales data against regional sales forecasts, with the goal of identifying performance gaps, uncovering sales trends, and supporting data-driven business decisions through Excel-based reporting and visualization.
 
 ##Data used
@@ -52,4 +53,5 @@ To evaluate and improve sales performance by analyzing transactional sales data 
 * Discrepancies between actual and planned sales revealed forecasting inaccuracies, suggesting the need for improved demand planning or market analysis methods.
 
 ##Project Conclusion
+
 The analysis highlighted key sales trends and performance gaps across regions, with the West outperforming targets and the East falling short. Variances between actual and planned sales revealed opportunities to improve forecasting accuracy. Excel-based reporting enabled clear, actionable insights to support strategic decision-making and sales planning.
