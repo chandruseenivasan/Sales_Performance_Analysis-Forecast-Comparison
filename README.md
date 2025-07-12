@@ -49,6 +49,7 @@ To evaluate and improve sales performance by analyzing transactional sales data 
 5.Monthly & Yearly Sales Patterns
 * Sales data showed monthly trends that could inform seasonal planning and inventory management.
 * Year-over-year analysis indicated fluctuations in total sales, valuable for forecasting and goal-setting.
+  
 6.Forecasting Gaps
 * Discrepancies between actual and planned sales revealed forecasting inaccuracies, suggesting the need for improved demand planning or market analysis methods.
 
