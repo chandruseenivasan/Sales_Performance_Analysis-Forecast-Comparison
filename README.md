@@ -39,7 +39,8 @@ To evaluate and improve sales performance by analyzing transactional sales data 
 * Provided actionable insights to support strategic planning and performance improvement.
 
 ##Dashboard
-<img width="1593" height="695" alt="Dash board" src="https://github.com/user-attachments/assets/e34f40cc-f6f1-44b7-99f2-088a36c7068e" />
+<img width="1593" height="695" alt="Dash board" src=<img width="1165" height="581" alt="Screenshot 2025-07-28 183621" src="https://github.com/user-attachments/assets/e138aab7-beaf-49b1-afd5-e2b8e02910c8" />
+ />
 
 ##Project Insights
 
